@@ -8,6 +8,7 @@ Cloud Architect, Google</br>
 [LinkedIn@ashokjung](https://www.linkedin.com/in/ashokjung/) | [Twitter@ashokjung](https://twitter.com/ashokjung)
 
 **Slide Deck:**
+- [Serverless Foundations](https://github.com/ashokjung/serverless-foundations-masterclass-2024-patna/blob/main/Serverless%20Foundations.pdf)
 
 **References:**
 - [Cloud Run and serverless computing](https://developers.google.com/learn/pathways/cloud-run-serverless-computing)
